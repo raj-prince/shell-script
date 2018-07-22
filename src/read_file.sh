@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# ./read_file.sh data.txt
+# ./read_file.sh ../data/data.txt
 
 COUNT=0
 
